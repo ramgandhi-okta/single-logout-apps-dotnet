@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../build/single-logout-app-a.props" />
-</Project>
